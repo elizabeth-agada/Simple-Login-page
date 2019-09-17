@@ -1,0 +1,66 @@
+body{
+    background-color: white;
+    margin: auto;
+    position: relative;
+    
+  }  
+    
+span{
+    text-decoration: inherit;
+    color: white;
+}
+h2{
+    color: dodgerblue;
+    padding-left:1em;
+    text-align-last: center;
+    background-color: white;
+    }
+    p{
+      
+       
+        color: black;
+        
+    }
+h3{color: white; 
+    background-color: darkblue; 
+    text-align: center; 
+    width: 100px; 
+    margin-left: 40%;
+
+}
+
+.login{
+
+     background-color: dodgerblue;
+   margin-left: 35%;
+    margin-right: 30%;
+    margin-top: 5%;
+    text-align: center;
+    width: 500px;
+    height: 700px;
+    border-radius: 10px;
+    padding-top: 20px;
+  <  opacity: 0.5;>
+    margin-bottom: 5%;
+        
+    }
+.google{color: white; 
+    background-color: darkred; 
+    text-align: center; 
+    width: 100px; 
+    margin-left: 40%;
+    margin-top: 5%;
+}
+#face{
+    margin-top: 20%;
+}
+#submit{
+    width: 25%;
+
+}
+.details{
+    width: 35%;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-color: dodgerblue;
+}
